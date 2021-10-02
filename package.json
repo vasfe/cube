@@ -1,6 +1,7 @@
 {
-  "name": "animated-cube",
+  "name": "cube",
   "version": "0.1.0",
+  "homepage": "http://vasfe.github.io/cube",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
